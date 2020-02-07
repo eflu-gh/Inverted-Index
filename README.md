@@ -4,10 +4,13 @@
 Go through the following lines in order to execute the project:
 
 1.- Open your console
+
 2.- Go to InvertedIndex directory. For example:
      cd InvertedIndex
+     
 3.- Run the application with the following command:
     java window.views.Searching
+    
 4.- You will see a window where you can start to search documents. Test the application with one of the following queries:
 
 	what are the seven wonders of the world
